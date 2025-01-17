@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "data": {
+    "fileName": "1737096197281-940551420-DATA INDIKATOR(1).pdf",
+    "totalRecords": 330,
+    "keysValue": [
+      "kode_indikator",
+      "id_sasaran_fk",
+      "deskripsi_indikator",
+      "ordering",
+      "jenis_indikator"
+    ],
+    "data": [
+      {
+        "kode_indikator": 1,
+        "id_sasaran_fk": 1,
+        "deskripsi_indikator": "menjadi wiraswasta",
+        "ordering": 1,
+        "jenis_indikator": "SN Dikti"
+      },
+      {
+        "kode_indikator": 2,
+        "id_sasaran_fk": 1,
+        "deskripsi_indikator": "studi; atau meraih prestasi",
+        "ordering": 2,
+        "jenis_indikator": "SN Dikti"
+      },
+      {
+        "kode_indikator": 3,
+        "id_sasaran_fk": 2,
+        "deskripsi_indikator": "industri, atau membimbing mahasiswa berkegiatan di luar program studi. Persentase dosen yang memiliki sertifikat kompetensi/profesi yang diakui",
+        "ordering": 3,
+        "jenis_indikator": "Selain SN Dikti"
+      }
+    ]
+  }
+}
